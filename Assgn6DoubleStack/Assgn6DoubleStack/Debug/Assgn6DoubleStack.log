@@ -1,0 +1,4 @@
+﻿  doubleStackMain.cpp
+C:\Users\Nopassword\source\repos\Fall21\Assgn6DoubleStack\Assgn6DoubleStack\doubleStackInt.h(121): warning C4715: 'doubleStackComp::highTopView': not all control paths return a value
+C:\Users\Nopassword\source\repos\Fall21\Assgn6DoubleStack\Assgn6DoubleStack\doubleStackInt.h(113): warning C4715: 'doubleStackComp::lowTopView': not all control paths return a value
+  Assgn6DoubleStack.vcxproj -> C:\Users\Nopassword\source\repos\Fall21\Assgn6DoubleStack\Debug\Assgn6DoubleStack.exe
