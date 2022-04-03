@@ -1,0 +1,3 @@
+﻿  Assgn12Main.cpp
+C:\Users\Nopassword\source\repos\Fall21\Assgn12\Assgn12\GraphsBFS.h(125): warning C4715: 'Graph<char>::isMarked': not all control paths return a value
+  Assgn12.vcxproj -> C:\Users\Nopassword\source\repos\Fall21\Assgn12\Debug\Assgn12.exe
