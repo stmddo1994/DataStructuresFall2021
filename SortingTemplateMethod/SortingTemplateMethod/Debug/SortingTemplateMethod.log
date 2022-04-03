@@ -1,0 +1,32 @@
+﻿  sortTemp.cpp
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(42,7): error C2065: 'values': undeclared identifier
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(42,7): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(42,25): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(44,9): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(44,26): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(59,13): error C2672: 'insertItem': no matching overloaded function found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(59,13): error C2783: 'void insertItem(int,int)': could not deduce template argument for 'Itemtype'
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(35): message : see declaration of 'insertItem'
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(59,13): message : 'insertItem': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(72,7): error C2065: 'values': undeclared identifier
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(72,7): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(72,23): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(73,9): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(73,24): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(84,11): error C2672: 'bubbleUp': no matching overloaded function found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(84,11): error C2783: 'void bubbleUp(int,int)': could not deduce template argument for 'Itemtype'
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(67): message : see declaration of 'bubbleUp'
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(84,11): message : 'bubbleUp': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(98,7): error C2065: 'values': undeclared identifier
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(98,7): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(98,23): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(100,9): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(100,24): error C3861: 'values': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(114,21): error C2672: 'bubbleUp2': no matching overloaded function found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(114,21): error C2783: 'bool bubbleUp2(int,int)': could not deduce template argument for 'Itemtype'
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(92): message : see declaration of 'bubbleUp2'
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(114,21): message : 'bubbleUp2': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(146,40): error C2672: 'minIndex': no matching overloaded function found
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(146,40): error C2780: 'int minIndex(Itemtype [],int,int)': expects 3 arguments - 2 provided
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(123): message : see declaration of 'minIndex'
+C:\Users\Nopassword\source\repos\Fall21\SortingTemplateMethod\SortingTemplateMethod\sortTemp.cpp(146,40): message : 'minIndex': function declaration must be available as none of the arguments depend on a template parameter
