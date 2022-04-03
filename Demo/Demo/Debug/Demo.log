@@ -1,0 +1,7 @@
+﻿  Demo.cpp
+  md2689_Assignment1.cpp
+C:\Users\Nopassword\source\repos\Fall21\Demo\Demo\md2689_Assignment1.cpp(7,16): error C2144: syntax error: 'int' should be preceded by ')'
+C:\Users\Nopassword\source\repos\Fall21\Demo\Demo\md2689_Assignment1.cpp(7,2): error C3861: 'printAsterisk': identifier not found
+C:\Users\Nopassword\source\repos\Fall21\Demo\Demo\md2689_Assignment1.cpp(7,16): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\Nopassword\source\repos\Fall21\Demo\Demo\md2689_Assignment1.cpp(7,21): error C2059: syntax error: ')'
+  Generating Code...
